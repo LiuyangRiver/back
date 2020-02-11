@@ -1,0 +1,302 @@
+[
+ {
+  "directory": "/home/misiyu/code/minoaServer", 
+  "arguments": [
+   "g++", 
+   "-Wall", 
+   "-g", 
+   "-std=c++14", 
+   "-I.", 
+   "-c", 
+   "ndn/rtmsg.cpp", 
+   "-o", 
+   "ndn/rtmsg.o"
+  ], 
+  "file": "ndn/rtmsg.cpp"
+ }, 
+ {
+  "directory": "/home/misiyu/code/minoaServer", 
+  "arguments": [
+   "g++", 
+   "-Wall", 
+   "-g", 
+   "-std=c++14", 
+   "-I.", 
+   "-c", 
+   "ndn/register.cpp", 
+   "-o", 
+   "ndn/register.o"
+  ], 
+  "file": "ndn/register.cpp"
+ }, 
+ {
+  "directory": "/home/misiyu/code/minoaServer", 
+  "arguments": [
+   "g++", 
+   "-Wall", 
+   "-g", 
+   "-std=c++14", 
+   "-I.", 
+   "-c", 
+   "ndn/ndnserver.cpp", 
+   "-o", 
+   "ndn/ndnserver.o"
+  ], 
+  "file": "ndn/ndnserver.cpp"
+ }, 
+ {
+  "directory": "/home/misiyu/code/minoaServer", 
+  "arguments": [
+   "g++", 
+   "-Wall", 
+   "-g", 
+   "-std=c++14", 
+   "-I.", 
+   "-c", 
+   "blockchain/dns_client.cpp", 
+   "-o", 
+   "blockchain/dns_client.o"
+  ], 
+  "file": "blockchain/dns_client.cpp"
+ }, 
+ {
+  "directory": "/home/misiyu/code/minoaServer", 
+  "arguments": [
+   "g++", 
+   "-Wall", 
+   "-g", 
+   "-std=c++14", 
+   "-I.", 
+   "-c", 
+   "ndn/userInfo.cpp", 
+   "-o", 
+   "ndn/userInfo.o"
+  ], 
+  "file": "ndn/userInfo.cpp"
+ }, 
+ {
+  "directory": "/home/misiyu/code/minoaServer", 
+  "arguments": [
+   "g++", 
+   "-Wall", 
+   "-g", 
+   "-std=c++14", 
+   "-I.", 
+   "-c", 
+   "mysql/sqlutil.cpp", 
+   "-o", 
+   "mysql/sqlutil.o"
+  ], 
+  "file": "mysql/sqlutil.cpp"
+ }, 
+ {
+  "directory": "/home/misiyu/code/minoaServer", 
+  "arguments": [
+   "g++", 
+   "-Wall", 
+   "-g", 
+   "-std=c++14", 
+   "-I.", 
+   "-c", 
+   "ndn/loginTable.cpp", 
+   "-o", 
+   "ndn/loginTable.o"
+  ], 
+  "file": "ndn/loginTable.cpp"
+ }, 
+ {
+  "directory": "/home/misiyu/code/minoaServer", 
+  "arguments": [
+   "g++", 
+   "-Wall", 
+   "-g", 
+   "-std=c++14", 
+   "-I.", 
+   "-c", 
+   "ndn/useractHelper.cpp", 
+   "-o", 
+   "ndn/useractHelper.o"
+  ], 
+  "file": "ndn/useractHelper.cpp"
+ }, 
+ {
+  "directory": "/home/misiyu/code/minoaServer", 
+  "arguments": [
+   "g++", 
+   "-Wall", 
+   "-g", 
+   "-std=c++14", 
+   "-I.", 
+   "-c", 
+   "ndn/ndnKey.cpp", 
+   "-o", 
+   "ndn/ndnKey.o"
+  ], 
+  "file": "ndn/ndnKey.cpp"
+ }, 
+ {
+  "directory": "/home/misiyu/code/minoaServer", 
+  "arguments": [
+   "g++", 
+   "-Wall", 
+   "-g", 
+   "-std=c++14", 
+   "-I.", 
+   "-c", 
+   "mysql/realTimeMsg.cpp", 
+   "-o", 
+   "mysql/realTimeMsg.o"
+  ], 
+  "file": "mysql/realTimeMsg.cpp"
+ }, 
+ {
+  "directory": "/home/misiyu/code/minoaServer", 
+  "arguments": [
+   "g++", 
+   "-Wall", 
+   "-g", 
+   "-std=c++14", 
+   "-I.", 
+   "-c", 
+   "mysql/approval.cpp", 
+   "-o", 
+   "mysql/approval.o"
+  ], 
+  "file": "mysql/approval.cpp"
+ }, 
+ {
+  "directory": "/home/misiyu/code/minoaServer", 
+  "arguments": [
+   "g++", 
+   "-Wall", 
+   "-g", 
+   "-std=c++14", 
+   "-I.", 
+   "-c", 
+   "security/crypto.cpp", 
+   "-o", 
+   "security/crypto.o"
+  ], 
+  "file": "security/crypto.cpp"
+ }, 
+ {
+  "directory": "/home/misiyu/code/minoaServer", 
+  "arguments": [
+   "g++", 
+   "-Wall", 
+   "-g", 
+   "-std=c++14", 
+   "-I.", 
+   "-c", 
+   "mysql/sqlfunc.cpp", 
+   "-o", 
+   "mysql/sqlfunc.o"
+  ], 
+  "file": "mysql/sqlfunc.cpp"
+ }, 
+ {
+  "directory": "/home/misiyu/code/minoaServer", 
+  "arguments": [
+   "g++", 
+   "-Wall", 
+   "-g", 
+   "-std=c++14", 
+   "-I.", 
+   "-c", 
+   "main.cpp", 
+   "-o", 
+   "main.o"
+  ], 
+  "file": "main.cpp"
+ }, 
+ {
+  "directory": "/home/misiyu/code/minoaServer", 
+  "arguments": [
+   "g++", 
+   "-Wall", 
+   "-g", 
+   "-std=c++14", 
+   "-I.", 
+   "-c", 
+   "common/util.cpp", 
+   "-o", 
+   "common/util.o"
+  ], 
+  "file": "common/util.cpp"
+ }, 
+ {
+  "directory": "/home/misiyu/code/minoaServer", 
+  "arguments": [
+   "g++", 
+   "-Wall", 
+   "-g", 
+   "-std=c++14", 
+   "-I.", 
+   "-c", 
+   "ndn/fileTransfer.cpp", 
+   "-o", 
+   "ndn/fileTransfer.o"
+  ], 
+  "file": "ndn/fileTransfer.cpp"
+ }, 
+ {
+  "directory": "/home/misiyu/code/minoaServer", 
+  "arguments": [
+   "g++", 
+   "-Wall", 
+   "-g", 
+   "-std=c++14", 
+   "-I.", 
+   "-c", 
+   "mysql/whitelist.cpp", 
+   "-o", 
+   "mysql/whitelist.o"
+  ], 
+  "file": "mysql/whitelist.cpp"
+ }, 
+ {
+  "directory": "/home/misiyu/code/minoaServer", 
+  "arguments": [
+   "g++", 
+   "-Wall", 
+   "-g", 
+   "-std=c++14", 
+   "-I.", 
+   "-c", 
+   "mysql/user.cpp", 
+   "-o", 
+   "mysql/user.o"
+  ], 
+  "file": "mysql/user.cpp"
+ }, 
+ {
+  "directory": "/home/misiyu/code/minoaServer", 
+  "arguments": [
+   "g++", 
+   "-Wall", 
+   "-g", 
+   "-std=c++14", 
+   "-I.", 
+   "-c", 
+   "ndn/approval.cpp", 
+   "-o", 
+   "ndn/approval.o"
+  ], 
+  "file": "ndn/approval.cpp"
+ }, 
+ {
+  "directory": "/home/misiyu/code/minoaServer", 
+  "arguments": [
+   "g++", 
+   "-Wall", 
+   "-g", 
+   "-std=c++14", 
+   "-I.", 
+   "-c", 
+   "mysql/sqlexecutor.cpp", 
+   "-o", 
+   "mysql/sqlexecutor.o"
+  ], 
+  "file": "mysql/sqlexecutor.cpp"
+ }
+]

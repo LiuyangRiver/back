@@ -1,0 +1,27 @@
+依赖：
+1、安装ndn-cxx和nfd
+	版本0.6.6
+	https://github.com/named-data/ndn-cxx/releases
+	https://github.com/named-data/NFD/releases
+
+2、c++ 依赖库
+	sudo apt install mysql-server   // 密码设置为"1234"
+	sudo apt install libmysqlclient-dev
+	sudo apt install uuid-dev
+	sudo apt install libcrypto++-dev
+3、安装mysql
+	sudo apt install mysql-server
+	
+	生成数据库
+	source minoaServer/mysql/createMinOADB.sql
+
+4、在config.json 文件中配置数据库连接变量以及区块链节点IP
+	
+
+
+5、编译
+	make 
+
+6、运行
+	nfd-start
+	./minoaserver
